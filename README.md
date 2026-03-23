@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy andy0noxo 👋</h1>
+<h1 align="center">¡Hola! Soy [Tu Nombre] 👋</h1>
 
 <h3 align="center">Ingeniero en Informática | SDET | Backend Developer | Data Engineer</h3>
 
@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/andres-salcedo-morales/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="Mail: an.salcedo@duocuc.cl">
+  <a href="mailto:an.salcedo@duocuc.cl">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.soyfreelancer.com/blog/emprendedurismo/crear-portafolios-cuando-no-tienes-experiencia/" target="_blank">
@@ -18,13 +18,13 @@
 
 ## 👨‍💻 Sobre Mí
 
-[cite_start]Soy un Ingeniero en Informática en mi último año en Duoc UC[cite: 1, 2], orientado a la construcción de software robusto, escalable y con altos estándares de calidad. Busco un entorno de trabajo estructurado donde pueda aportar valor mediante la automatización de procesos, el diseño de arquitecturas eficientes y el análisis de datos. 
+Soy un Ingeniero en Informática en mi último año en Duoc UC, orientado a la construcción de software robusto, escalable y con altos estándares de calidad. Busco un entorno de trabajo estructurado donde pueda aportar valor mediante la automatización de procesos, el diseño de arquitecturas eficientes y el análisis de datos. 
 
-[cite_start]Mi enfoque profesional se basa en la mejora continua, la ética profesional y el trabajo colaborativo bajo marcos ágiles.
+Mi enfoque profesional se basa en la mejora continua, la ética profesional y el trabajo colaborativo bajo marcos ágiles.
 
 - 🎯 **Enfoque actual:** QA Automation (SDET), Desarrollo Backend y Data Engineering.
-- [cite_start]⚙️ **Mi especialidad:** Construir programas y rutinas de variada complejidad para dar solución a requerimientos organizacionales [cite: 2][cite_start], así como realizar pruebas de certificación utilizando buenas prácticas de la industria.
-- [cite_start]📊 **Datos:** Capacidad para desarrollar la transformación de grandes volúmenes de datos para apoyar la toma de decisiones.
+- ⚙️ **Mi especialidad:** Construir programas y rutinas de variada complejidad para dar solución a requerimientos organizacionales, así como realizar pruebas de certificación utilizando buenas prácticas de la industria.
+- 📊 **Datos:** Capacidad para desarrollar la transformación de grandes volúmenes de datos para apoyar la toma de decisiones.
 - 🌱 **Actualmente aprendiendo:** [Ej: Herramientas específicas de CI/CD, Apache Spark, o Cypress/Selenium].
 - 💬 **Pregúntame sobre:** Diseño de bases de datos (SQL/NoSQL), desarrollo de APIs RESTful y metodologías ágiles (Scrum/Kanban).
 
@@ -61,24 +61,24 @@
 
 ## 🚀 Proyectos Destacados
 
-*(Nota: Aquí debes enlazar repositorios reales que demuestren tus habilidades en cada una de las 3 áreas objetivo. Reemplaza los textos entre corchetes con tus proyectos reales)*
+*(Nota: Aquí debes enlazar repositorios reales que demuestren tus habilidades. Reemplaza los textos entre corchetes con tus proyectos reales)*
 
 ### 1. 🛡️ [Nombre del Proyecto QA / SDET]
 * **Descripción:** Framework de pruebas automatizadas E2E y de integración para una API REST, asegurando la calidad del código y previniendo regresiones.
 * **Tecnologías:** Node.js / Python, [Herramienta de Testing ej: PyTest / Mocha].
-* [cite_start]**Impacto:** Automatización de pruebas de certificación sistémica para asegurar el cumplimiento de normas de la industria.
+* **Impacto:** Automatización de pruebas de certificación sistémica para asegurar el cumplimiento de normas de la industria.
 * [🔗 Ver Código](#) | [📄 Ver Documentación de Pruebas](#)
 
 ### 2. ⚙️ [Nombre del Proyecto Backend / Fullstack]
 * **Descripción:** Arquitectura de microservicios (o monolito modular) para gestionar [insertar caso de uso, ej: reservas de un hotel]. 
 * **Tecnologías:** Django / Node.js, PostgreSQL, Arquitectura REST.
-* [cite_start]**Impacto:** Construcción del modelo arquitectónico y de datos para soportar requerimientos organizacionales, creando un diseño definido y escalable.
+* **Impacto:** Construcción del modelo arquitectónico y de datos para soportar requerimientos organizacionales, creando un diseño definido y escalable.
 * [🔗 Ver Código](#) | [🌐 Ver Demo en Vivo](#)
 
 ### 3. 📊 [Nombre del Proyecto Data Engineering]
 * **Descripción:** Pipeline de datos (ETL) que extrae información de diversas fuentes, la transforma y la carga en una base de datos analítica.
 * **Tecnologías:** Python, MySQL / MongoDB.
-* [cite_start]**Impacto:** Transformación de grandes volúmenes de datos para la obtención de información y apoyo a la toma de decisiones.
+* **Impacto:** Transformación de grandes volúmenes de datos para la obtención de información y apoyo a la toma de decisiones.
 * [🔗 Ver Código](#)
 
 ---
