@@ -84,7 +84,14 @@ Mi enfoque profesional se basa en la mejora continua, la ética profesional y el
 ---
 
 ## 📈 Estadísticas de GitHub
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andy0noxo&theme=radium&hide_border=true" alt="Estadísticas de racha de andy0noxo" />
+</p>
+<p align="center">
+  <a href="https://github.com/andy0noxo">
+    <img src="https://github-profile-trophy.vercel.app/?username=andy0noxo&theme=radical&no-frame=true&row=1&column=5" alt="Trofeos de andy0noxo" />
+  </a>
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=andy0noxo&show_icons=true&theme=radium&hide_border=true" alt="Estadísticas de GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andy0noxo&layout=compact&theme=radium&hide_border=true" alt="Lenguajes más usados" />
