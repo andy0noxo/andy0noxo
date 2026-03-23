@@ -1,16 +1,87 @@
-## Hi there 👋
+<h1 align="center">¡Hola! Soy andy0noxo 👋</h1>
 
-<!--
-**andy0noxo/andy0noxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Ingeniero en Informática | SDET | Backend Developer | Data Engineer</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/andres-salcedo-morales/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="Mail: an.salcedo@duocuc.cl">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.soyfreelancer.com/blog/emprendedurismo/crear-portafolios-cuando-no-tienes-experiencia/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 Sobre Mí
+
+[cite_start]Soy un Ingeniero en Informática en mi último año en Duoc UC[cite: 1, 2], orientado a la construcción de software robusto, escalable y con altos estándares de calidad. Busco un entorno de trabajo estructurado donde pueda aportar valor mediante la automatización de procesos, el diseño de arquitecturas eficientes y el análisis de datos. 
+
+[cite_start]Mi enfoque profesional se basa en la mejora continua, la ética profesional y el trabajo colaborativo bajo marcos ágiles.
+
+- 🎯 **Enfoque actual:** QA Automation (SDET), Desarrollo Backend y Data Engineering.
+- [cite_start]⚙️ **Mi especialidad:** Construir programas y rutinas de variada complejidad para dar solución a requerimientos organizacionales [cite: 2][cite_start], así como realizar pruebas de certificación utilizando buenas prácticas de la industria.
+- [cite_start]📊 **Datos:** Capacidad para desarrollar la transformación de grandes volúmenes de datos para apoyar la toma de decisiones.
+- 🌱 **Actualmente aprendiendo:** [Ej: Herramientas específicas de CI/CD, Apache Spark, o Cypress/Selenium].
+- 💬 **Pregúntame sobre:** Diseño de bases de datos (SQL/NoSQL), desarrollo de APIs RESTful y metodologías ágiles (Scrum/Kanban).
+
+---
+
+## 🛠️ Stack Tecnológico
+
+### Desarrollo Backend & Fullstack
+<p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+### Bases de Datos & Data Engineering
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+### Testing, Calidad & Gestión
+<p>
+  <img src="https://img.shields.io/badge/QA_Testing-252525?style=flat-square&logo=testinglibrary&logoColor=white" alt="QA Testing" />
+  <img src="https://img.shields.io/badge/Scrum-000000?style=flat-square&logo=scrumalliance&logoColor=white" alt="Scrum" />
+  <img src="https://img.shields.io/badge/Kanban-0052CC?style=flat-square&logo=trello&logoColor=white" alt="Kanban" />
+</p>
+
+---
+
+## 🚀 Proyectos Destacados
+
+*(Nota: Aquí debes enlazar repositorios reales que demuestren tus habilidades en cada una de las 3 áreas objetivo. Reemplaza los textos entre corchetes con tus proyectos reales)*
+
+### 1. 🛡️ [Nombre del Proyecto QA / SDET]
+* **Descripción:** Framework de pruebas automatizadas E2E y de integración para una API REST, asegurando la calidad del código y previniendo regresiones.
+* **Tecnologías:** Node.js / Python, [Herramienta de Testing ej: PyTest / Mocha].
+* [cite_start]**Impacto:** Automatización de pruebas de certificación sistémica para asegurar el cumplimiento de normas de la industria.
+* [🔗 Ver Código](#) | [📄 Ver Documentación de Pruebas](#)
+
+### 2. ⚙️ [Nombre del Proyecto Backend / Fullstack]
+* **Descripción:** Arquitectura de microservicios (o monolito modular) para gestionar [insertar caso de uso, ej: reservas de un hotel]. 
+* **Tecnologías:** Django / Node.js, PostgreSQL, Arquitectura REST.
+* [cite_start]**Impacto:** Construcción del modelo arquitectónico y de datos para soportar requerimientos organizacionales, creando un diseño definido y escalable.
+* [🔗 Ver Código](#) | [🌐 Ver Demo en Vivo](#)
+
+### 3. 📊 [Nombre del Proyecto Data Engineering]
+* **Descripción:** Pipeline de datos (ETL) que extrae información de diversas fuentes, la transforma y la carga en una base de datos analítica.
+* **Tecnologías:** Python, MySQL / MongoDB.
+* [cite_start]**Impacto:** Transformación de grandes volúmenes de datos para la obtención de información y apoyo a la toma de decisiones.
+* [🔗 Ver Código](#)
+
+---
+
+## 📈 Estadísticas de GitHub
+*(Descomenta y reemplaza "TU_USUARIO" en las siguientes líneas para mostrar tus estadísticas reales)*
