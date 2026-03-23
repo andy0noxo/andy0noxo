@@ -61,7 +61,7 @@ Mi enfoque profesional se basa en la mejora continua, la ética profesional y el
 
 ## 🚀 Proyectos Destacados
 
-*(Nota: Aquí debes enlazar repositorios reales que demuestren tus habilidades. Reemplaza los textos entre corchetes con tus proyectos reales)*
+
 
 ### 1. 🛡️ [Nombre del Proyecto QA / SDET]
 * **Descripción:** Framework de pruebas automatizadas E2E y de integración para una API REST, asegurando la calidad del código y previniendo regresiones.
@@ -84,4 +84,8 @@ Mi enfoque profesional se basa en la mejora continua, la ética profesional y el
 ---
 
 ## 📈 Estadísticas de GitHub
-*(Descomenta y reemplaza "TU_USUARIO" en las siguientes líneas para mostrar tus estadísticas reales)*
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andy0noxo&show_icons=true&theme=radium&hide_border=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andy0noxo&layout=compact&theme=radium&hide_border=true" alt="Lenguajes más usados" />
+</p>
